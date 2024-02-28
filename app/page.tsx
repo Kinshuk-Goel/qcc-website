@@ -18,12 +18,12 @@ const Home: React.FC = () => {
         <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
           <div className={`${styles.boxWidth}`}>
             {/* <Stats /> This has statistics stuff */}
-            <Business />
+            <Business /> {/* About Section */}
             <Billing />
             <CardDeal />
             <Testimonials />
-            <Clients />
-            <CTA />
+            {/* <Clients /> */}
+            {/* <CTA /> */}
             <Footer />
           </div>
         </div>

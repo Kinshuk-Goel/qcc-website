@@ -28,8 +28,8 @@ const Business: React.FC = () => (
   <section id="features" className={`${layout.section}`}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" />
-        We'll handle the money.
+        Using Quantum Physics, <br className="sm:block hidden" />
+        to solve complex problems.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         With the right credit card, you can improve your financial lif e by
