@@ -11,11 +11,11 @@ export const navLinks = [
     },
     {
         id: "product",
-        title: "Our Mission",
+        title: "Our Goal",
     },
     {
         id: "clients",
-        title: "What We Offer",
+        title: "Our Officers",
     },
 ];
 
