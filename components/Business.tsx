@@ -31,11 +31,11 @@ const Business: React.FC = () => (
         Using Quantum Physics, <br className="sm:block hidden" />
         to solve complex problems.
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      {/* <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         With the right credit card, you can improve your financial lif e by
         building credit, earning rewards and saving money. But with hundreds of
         credits cards on the market.
-      </p>
+      </p> */}
       <Button styles="mt-10" />
     </div>
     <div className={`${layout.sectionImg} flex-col`}>

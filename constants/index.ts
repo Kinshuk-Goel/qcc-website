@@ -22,24 +22,24 @@ export const navLinks = [
 export const features = [
     {
         id: "feature-1",
-        icon: star,
-        title: "Rewards",
+        icon: star, 
+        title: "Why Learn Quantum Computing?",
         content:
-            "The best credit cards offer some tantalizing combinations of promotions and prizes",
+            "Quantum computing opens up new possibilities for solving complex problems using the principles of quantum physics. Join us as we explore this fascinating field and its potential applications.",
     },
     {
         id: "feature-2",
         icon: shield,
-        title: "100% Secured",
+        title: "Exciting Challenges!",
         content:
-            "We take proactive steps make sure your information and transactions are secure.",
+            "Join us in tackling exciting challenges in quantum computing, where every problem is an opportunity for discovery and innovation.",
     },
     {
         id: "feature-3",
         icon: send,
-        title: "Balance Transfer",
+        title: "Knowledge Enhancement",
         content:
-            "A balance transfer credit card can save you a lot of money in interest charges.",
+            "Discover the power of knowledge exchange as we delve into topics like quantum algorithms, quantum cryptography, and more.",
     },
 ];
 
@@ -48,26 +48,50 @@ export const feedback = [
         id: "feedback-1",
         content:
             "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-        name: "Herman Jensen",
-        title: "Founder & Leader",
+        name: "Amogh Jambekar",
+        title: "CEO",
         img: people01,
     },
     {
         id: "feedback-2",
         content:
             "Money makes your life easier. If you're lucky to have it, you're lucky.",
-        name: "Steve Mark",
-        title: "Founder & Leader",
+        name: "Advik Joshi",
+        title: "Junior CEO",
         img: people02,
     },
     {
         id: "feedback-3",
         content:
             "It is usually people in the money business, finance, and international trade that are really rich.",
-        name: "Kenn Gallagher",
-        title: "Founder & Leader",
+        name: "Arav Kewalia",
+        title: "CMO",
         img: people03,
     },
+    {
+        id: "feedback-4",
+        content:
+            "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+        name: "Kinshuk Goel",
+        title: "CDO",
+        img: people01,
+    },
+    {
+        id: "feedback-5",
+        content:
+            "Money makes your life easier. If you're lucky to have it, you're lucky.",
+        name: "Aritra Banerjee",
+        title: "CFO",
+        img: people02,
+    },
+    {
+        id: "feedback-6",
+        content:
+            "It is usually people in the money business, finance, and international trade that are really rich.",
+        name: "Ryan Benslama",
+        title: "CFO",
+        img: people03,
+    }
 ];
 
 export const stats = [
